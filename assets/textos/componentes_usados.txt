@@ -1,0 +1,14 @@
+Para o desenvolvimento do blog foram usados os componentes:
+
+> navbar
+> cards
+> btn
+> badges
+> list-groups
+
+Foram usados elementos de layout como:
+> container
+> row
+> col
+
+

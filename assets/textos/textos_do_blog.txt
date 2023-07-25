@@ -1,0 +1,28 @@
+**** CARDS ****
+
+CARD 1
+Título: Viagem a Paris, França
+Descrição: Descubra as belezas de Paris, a capital da França. Explore a Torre Eiffel, caminhe pelas charmosas ruas de Montmartre e visite o Museu do Louvre para apreciar obras de arte famosas como a Mona Lisa. Desfrute dos deliciosos cafés e croissants em um dos cafés parisienses e faça um passeio de barco pelo Rio Sena para admirar a cidade de um ângulo diferente.
+
+CARD 2
+Título: Viagem a Tóquio, Japão
+Descrição: Explore a cidade que nunca dorme! Descubra as luzes brilhantes de Times Square, caminhe pelo Central Park, conheça a Estátua da Liberdade e admire as vistas deslumbrantes do Empire State Building. Não deixe de visitar os museus famosos, como o MoMA (Museu de Arte Moderna) e o Metropolitan Museum of Art, e desfrute da incrível variedade de restaurantes, desde delis até restaurantes finos.
+
+CARD 3
+Título: Viagem a Nova York, Estados Unidos
+Descrição: Explore a vibrante metrópole de Tóquio, a capital do Japão. Visite Shibuya Crossing, uma das travessias de pedestres mais movimentadas do mundo, e aproveite para fazer compras nos centros comerciais de Ginza. Explore os belos jardins do Palácio Imperial e experimente a autêntica culinária japonesa em um dos muitos restaurantes de ramen ou sushi. Não deixe de visitar também o famoso Templo Senso-ji em Asakusa.
+
+CARD 4
+Título: Viagem ao Rio de Janeiro, Brasil
+Descrição: Descubra as maravilhas do Rio de Janeiro, também conhecido como a Cidade Maravilhosa. Visite o icônico Cristo Redentor no topo do Corcovado, relaxe nas belas praias de Copacabana e Ipanema, e explore o vibrante bairro de Santa Teresa. Suba o Pão de Açúcar para desfrutar de vistas panorâmicas da cidade e não deixe de experimentar pratos deliciosos da culinária brasileira, como feijoada e caipirinha.
+
+**** CATEGORIAS ****
+Gastronomia
+Pontos Turísticos
+Cultura e História
+Vida Noturna
+Compras
+Dicas de Viagem
+
+
+

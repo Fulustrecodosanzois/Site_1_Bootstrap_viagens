@@ -16,12 +16,13 @@
   </head>
 </html>
 <body>
-  <!-- BARRA DE NAVEGAÇÃO ------------------------------------------------->
+  <!--------------------------------------------------- BARRA DE NAVEGAÇÃO -->
+
   <nav
     class="navbar navbar-expand-lg bg-primary sticky-top"
     data-bs-theme="dark"
   >
-    <div class="container col-lg-6">
+    <div class="container">
       <a class="navbar-brand fs-3 mx-3" href="index.html"
         >Viajando Pelo Mundo</a
       >
@@ -31,7 +32,6 @@
         data-bs-toggle="collapse"
         data-bs-target="#navbarNav"
         aria-controls="navbarNav"
-        aria-expanded="false"
         aria-label="Toggle navigation"
       >
         <span class="navbar-toggler-icon"></span>
@@ -52,30 +52,16 @@
         </ul>
       </div>
     </div>
-
-    <!-- ÍCONES REDES SOCIAIS -->
-
-    <div class="col-lg-3">
-      <div class="fs-4 d-flex gap-4">
-        <a href="#" class="text-white"><i class="fa-brands fa-youtube"></i></a>
-        <a href="#" class="text-white"><i class="fa-brands fa-twitter"></i></a>
-        <a href="#" class="text-white"
-          ><i class="fa-brands fa-instagram"></i
-        ></a>
-        <a href="#" class="text-white"><i class="fa-brands fa-tiktok"></i></a>
-        <a href="#" class="text-white"><i class="fa-brands fa-facebook"></i></a>
-      </div>
-    </div>
   </nav>
 
-  <!-- CABEÇALHO ----------------------------------------------------------->
+  <!----------------------------------------------------------CABEÇALHO-->
 
-  <header>
+  <main>
     <section class="container">
-      <div class="row justify-content-between">
-        <!-- CARDS --------------------------------------------------------->
+      <div class="container row">
+        <!--------------------------------------------------------- CARDS -->
 
-        <div class="col-lg-6">
+        <div class="col-lg-8">
           <div>
             <h1 class="py-3 fs-3 fw-semibolder">Meu Blog de Viagens</h1>
           </div>
@@ -83,7 +69,7 @@
           <div>
             <!-- CARD 1-->
 
-            <div class="card mb-4 card_efeito" style="width: 50rem">
+            <div class="card mb-4 card_efeito" style="width: 100%">
               <img
                 src="assets/imagens/paris.jpg"
                 class="card-img-top"
@@ -105,7 +91,7 @@
 
             <!-- CARD 2 -->
 
-            <div class="card mb-4 card_efeito" style="width: 50rem">
+            <div class="card mb-4 card_efeito" style="width: 100%">
               <img
                 src="assets/imagens/tokyo.jpg"
                 class="card-img-top"
@@ -128,7 +114,7 @@
 
             <!-- CARD 3 -->
 
-            <div class="card mb-4 card_efeito" style="width: 50rem">
+            <div class="card mb-4 card_efeito" style="width: 100%">
               <img
                 src="assets/imagens/nova_york.jpg"
                 class="card-img-top"
@@ -151,7 +137,7 @@
 
             <!-- CARD 4 -->
 
-            <div class="card mb-4 card_efeito" style="width: 50rem">
+            <div class="card mb-4 card_efeito" style="width: 100%">
               <img
                 src="assets/imagens/rio-de-janeiro.jpg"
                 class="card-img-top"
@@ -226,12 +212,39 @@
         </div>
       </div>
     </section>
-  </header>
+  </main>
 
   <!-- RODAPÉ -->
-  <footer class="container-fluid bg-primary py-3">
-    <section class="text-center">
-      <small class="text-white">Todos os direitos reservados &copy; 2023</small>
+  <footer class="container-fluid bg-primary py-4">
+    <section class="container d-flex justify-content-between">
+        <small class="text-white text-center mt-2"
+          >Todos os direitos reservados &copy; 2023</small
+        >
+
+      <!---------------------------------------------- ÍCONES REDES SOCIAIS -->
+      
+          <div class="fs-4 d-flex gap-4">
+            <a href="#" class="text-white"
+              ><i class="fa-brands fa-youtube"></i
+            ></a>
+            <a href="#" class="text-white"
+              ><i class="fa-brands fa-twitter"></i
+            ></a>
+            <a href="#" class="text-white"
+              ><i class="fa-brands fa-instagram"></i
+            ></a>
+            <a href="#" class="text-white"
+              ><i class="fa-brands fa-tiktok"></i
+            ></a>
+            <a href="#" class="text-white"
+              ><i class="fa-brands fa-facebook"></i
+            ></a>
+          </div>
+
     </section>
   </footer>
+
+<!------------------------------------------------------ SCRIPT jAVA -->
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
 </body>

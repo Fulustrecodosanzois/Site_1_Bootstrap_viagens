@@ -1,0 +1,11 @@
+* {margin: 0;}
+
+.card_efeito:hover {
+    box-shadow: 0px 0px 15px rgb(53, 53, 53);
+    cursor: pointer;
+}
+
+.grupo:hover {
+    background-color: rgb(191, 233, 247);
+    cursor: pointer;
+}

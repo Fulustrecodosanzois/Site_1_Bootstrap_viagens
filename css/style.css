@@ -6,18 +6,33 @@
 .grupo:hover {
     background-color: rgb(191, 233, 247);
     cursor: pointer;
-
 }
 
-.icone:hover {
-    text-shadow:0px 0px 5px rgb(255, 255, 255);
+.tube:hover {
+    color: rgb(255, 0, 0);
+}
+
+.twitter:hover {
+    color: rgb(46, 187, 243);
+    
+}
+
+.insta:hover {
+    color: rgb(245, 47, 218);
+}
+
+.tiktok:hover {
+    color: rgb(2, 2, 2);
+}
+
+.face:hover {
+    color: rgb(26, 88, 223);
 }
 
 .grupo:active {
     background-color: rgb(91, 135, 202);
 }
 
-
 .borda {
-    border: 2px solid black;
+    border: 3px solid black;
 }
